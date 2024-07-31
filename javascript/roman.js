@@ -35,6 +35,6 @@ function romanizer(numbers) {
   return romanArray;
 }
 
-const numArray = [1, 2, 3, 4, 35];
+// const numArray = [1, 2, 3, 4, 35];
 const numA = [4, 35];
-console.log(romanizer(numArray));
+console.log(romanizer(numA));
